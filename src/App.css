@@ -1,0 +1,7 @@
+/* App-specific styles */
+/* Most styles are in index.css and through Tailwind classes */
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
